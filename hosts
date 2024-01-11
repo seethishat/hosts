@@ -1,0 +1,7 @@
+# A hosts file of blocked domains
+
+0.0.0.0 6htf9q.sse.codesandbox.io # phishing
+0.0.0.0 cutt.ly                   # url shortener
+0.0.0.0 www.cutt.ly               # url shortener
+0.0.0.0 readberserk.com           # manga
+0.0.0.0 www.readberserk.com       # manga
