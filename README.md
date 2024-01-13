@@ -1,4 +1,4 @@
-# A hosts file of blocked domains
+# A collection of hosts files to block certain domains
 
 ## Source
 ```bash
