@@ -7,7 +7,6 @@
 0.0.0.0 096-042-026-063.res.spectrum.com
 0.0.0.0 101.ip-54-38-183.eu
 0.0.0.0 104-237-158-32.ip.linodeusercontent.com
-0.0.0.0 105.18.35.193.pfcloud.io
 0.0.0.0 107-172-13-143-host.colocrossing.com
 0.0.0.0 107-172-31-146-host.colocrossing.com
 0.0.0.0 107-172-31-165-host.colocrossing.com
@@ -16,8 +15,6 @@
 0.0.0.0 107-174-231-197-host.colocrossing.com
 0.0.0.0 108.61.189.136.vultrusercontent.com
 0.0.0.0 10.tor-exit.nothingtohide.nl
-0.0.0.0 118-163-74-160.hinet-ip.hinet.net
-0.0.0.0 118668.server.net
 0.0.0.0 119.129.205.92.host.secureserver.net
 0.0.0.0 11.tor-exit.nothingtohide.nl
 0.0.0.0 128.104.99.93.finalhosting.cz
@@ -45,9 +42,8 @@
 0.0.0.0 172-233-209-179.ip.linodeusercontent.com
 0.0.0.0 173-255-255-215.ip.linodeusercontent.com
 0.0.0.0 176-58-117-81.ip.linodeusercontent.com
-0.0.0.0 178-17-170-23.static.as43289.net
+0.0.0.0 178-17-174-14.static.as43289.net
 0.0.0.0 178-17-174-164.static.as43289.net
-0.0.0.0 178-17-174-198.static.as43289.net
 0.0.0.0 178-175-135-7.static.as43289.net
 0.0.0.0 178-175-142-26.static.as43289.net
 0.0.0.0 178-175-148-209.static.as43289.net
@@ -78,7 +74,6 @@
 0.0.0.0 193.26.115.61.powered.by.rdp.sh
 0.0.0.0 193.28.48.77.finalhosting.cz
 0.0.0.0 194-195-120-132.ip.linodeusercontent.com
-0.0.0.0 194-233-174-56.ip.linodeusercontent.com
 0.0.0.0 194.26.192.64.powered.by.rdp.sh
 0.0.0.0 194.26.192.77.powered.by.rdp.sh
 0.0.0.0 198-144-178-163-host.colocrossing.com
@@ -131,6 +126,7 @@
 0.0.0.0 47.ip-149-56-44.net
 0.0.0.0 47.ip-158-69-201.net
 0.0.0.0 47.tor-exit.nothingtohide.nl
+0.0.0.0 49.18.35.193.pfcloud.io
 0.0.0.0 4d6c13ac36.cbdpetmunchys.com
 0.0.0.0 4.tor-exit.nothingtohide.nl
 0.0.0.0 504e1909.host.njalla.net
@@ -142,8 +138,8 @@
 0.0.0.0 6.tor-exit.nothingtohide.nl
 0.0.0.0 72.247.81.77.static.intovps.com
 0.0.0.0 74-207-248-172.ip.linodeusercontent.com
-0.0.0.0 75-164-178-9.ptld.qwest.net
 0.0.0.0 76.143.5.163.rev.as200136.net
+0.0.0.0 77.18.35.193.pfcloud.io
 0.0.0.0 7.tor-exit.nothingtohide.nl
 0.0.0.0 80.ip-144-217-80.net
 0.0.0.0 89.187.143.31.coolhousing.net
@@ -162,15 +158,14 @@
 0.0.0.0 amsterdam01.tor-exit.artikel10.org
 0.0.0.0 anatkamm.tor-exit.calyxinstitute.org
 0.0.0.0 angband.teaparty.net
+0.0.0.0 a-n-o-n-y-m-e.net
 0.0.0.0 apollo.pabu.co
 0.0.0.0 aramis-fran72
 0.0.0.0 aramis-tor73
 0.0.0.0 arnov.intervocalically.com
-0.0.0.0 b9c17d5f.host.njalla.net
 0.0.0.0 berlin01.tor-exit.artikel10.org
 0.0.0.0 bhsfm.bond
 0.0.0.0 billsf.tor-exit.calyxinstitute.org
-0.0.0.0 break-guide.prontoutile.com
 0.0.0.0 brutus.relaymagic.org
 0.0.0.0 bucarest01.tor-exit.artikel10.org
 0.0.0.0 bucarest02.tor-exit.artikel10.org
@@ -179,7 +174,6 @@
 0.0.0.0 cc35021-05.cc.colocall.com
 0.0.0.0 cerutty546y.online
 0.0.0.0 chelseamanning.tor-exit.calyxinstitute.org
-0.0.0.0 cherry.tor-exit.com
 0.0.0.0 chimera3.brandonkuschel.com
 0.0.0.0 chimera.brandonkuschel.com
 0.0.0.0 cimmeria.theskynet.xyz
@@ -198,6 +192,7 @@
 0.0.0.0 djb.tor-exit.calyxinstitute.org
 0.0.0.0 dns.nextdns.io
 0.0.0.0 dsl-189-147-166-241-dyn.prod-infinitum.com.mx
+0.0.0.0 dsl-189-147-187-10-dyn.prod-infinitum.com.mx
 0.0.0.0 dsl-189-147-242-169-dyn.prod-infinitum.com.mx
 0.0.0.0 ec5279d.online-server.cloud
 0.0.0.0 educacionit.co.uk
@@ -212,7 +207,6 @@
 0.0.0.0 exitor.zof.sh
 0.0.0.0 exit-relay.orangepill.ovh
 0.0.0.0 exit.t-1.org
-0.0.0.0 exit.teap0t.com
 0.0.0.0 exit.tor.uwaterloo.ca
 0.0.0.0 farnsworth.rst.schiller.im
 0.0.0.0 fastboy
@@ -225,7 +219,6 @@
 0.0.0.0 h-62-63-244-7.A980.priv.bahnhof.se
 0.0.0.0 hermes.modafinilsupply.org
 0.0.0.0 host173-237-206-68.lightwavenetworks.com
-0.0.0.0 host-176-121-81-51.amsnet.pl
 0.0.0.0 host-88-80-20-86.cust.prq.se
 0.0.0.0 hosted-by.100up.net
 0.0.0.0 hosted-by.armouredvm.com
@@ -238,7 +231,6 @@
 0.0.0.0 Houston.Texas4Tor.com
 0.0.0.0 ip103-129-222-46.cloudhost.web.id
 0.0.0.0 ip103-236-201-88.cloudhost.web.id
-0.0.0.0 ip103-28-52-93.cloudhost.web.id
 0.0.0.0 ip-104-192-1-138.host.datawagon.net
 0.0.0.0 ip-104-219-232-126.host.datawagon.net
 0.0.0.0 ip-104-219-236-100.host.datawagon.net
@@ -344,11 +336,8 @@
 0.0.0.0 NurembergTor78.quetzalcoatl-relays.org
 0.0.0.0 NurembergTor79.quetzalcoatl-relays.org
 0.0.0.0 onion3.ky0uraku.xyz
-0.0.0.0 onion-exit.stagingdomain.name
-0.0.0.0 onion.xor.sc
 0.0.0.0 OSH-NET-193-33.onshore.net
 0.0.0.0 p5df2444b.dip0.t-ipconnect.de
-0.0.0.0 pengy.lsd.cat
 0.0.0.0 pf10.prsv.ch
 0.0.0.0 pf3.prsv.ch
 0.0.0.0 pf4.prsv.ch
@@ -417,13 +406,13 @@
 0.0.0.0 tor02.telenet.unc.edu
 0.0.0.0 tor02.zencurity.com
 0.0.0.0 tor03.mtak.nl
+0.0.0.0 tor11.becker.blue
 0.0.0.0 tor1.panhu.xyz
 0.0.0.0 tor2.panhu.xyz
 0.0.0.0 tor2.smurf.noris.de
 0.0.0.0 tor2.teitel.net
 0.0.0.0 tor3e1.digitale-gesellschaft.ch
 0.0.0.0 tor3e3.digitale-gesellschaft.ch
-0.0.0.0 tor4e1.digitale-gesellschaft.ch
 0.0.0.0 tor4e3.digitale-gesellschaft.ch
 0.0.0.0 tor5e1.digitale-gesellschaft.ch
 0.0.0.0 tor5e3.digitale-gesellschaft.ch
@@ -612,6 +601,7 @@
 0.0.0.0 tor-exit-9.zbau.f3netze.de
 0.0.0.0 tor-exit.ambient8.xyz
 0.0.0.0 tor-exit-anonymizer.appliedprivacy.net
+0.0.0.0 tor-exit.aranym.net
 0.0.0.0 tor-exit-au-04.finlay.wattle.id.au
 0.0.0.0 tor-exit-au-42.project-privacy.com.au
 0.0.0.0 tor-exit.cole.pizza
@@ -657,7 +647,6 @@
 0.0.0.0 tor-exit.readme.toroncampus.org
 0.0.0.0 tor-exit-relay-002.carlos1001.com
 0.0.0.0 tor-exit-relay-0.anonymizing-proxy.digitalcourage.de
-0.0.0.0 tor-exit-relay.0x7c0.com
 0.0.0.0 tor-exit-relay-2.anonymizing-proxy.digitalcourage.de
 0.0.0.0 tor-exit-relay-3.anonymizing-proxy.digitalcourage.de
 0.0.0.0 tor-exit-relay-4.anonymizing-proxy.digitalcourage.de
@@ -666,12 +655,12 @@
 0.0.0.0 tor-exit-relay-7.anonymizing-proxy.digitalcourage.de
 0.0.0.0 tor-exit-relay-8.anonymizing-proxy.digitalcourage.de
 0.0.0.0 tor-exit-relay.anonymizing-proxy.digitalcourage.de
-0.0.0.0 tor-exit-relay-east.tampa.coop
-0.0.0.0 tor-exit-relay.turtlex.net
 0.0.0.0 tor-exit-router-4privacy.quido.org
 0.0.0.0 tor-exit-router-a13.quido.org
+0.0.0.0 tor--exit--router--proxy.quido.org
 0.0.0.0 tor--exit-router-proxy-read--me.quido.org
 0.0.0.0 tor-exit-router-proxy-read-me.quido.org
+0.0.0.0 tor-exit-router--proxy--read--this.quido.org
 0.0.0.0 tor-exit-router.quido.org
 0.0.0.0 tor-exit-router-read-mee.quido.org
 0.0.0.0 tor-exit--router-read-me.quido.org
@@ -692,7 +681,6 @@
 0.0.0.0 tor-exit.yomi.katawaredoki.one
 0.0.0.0 tor-exit-zone38.duckdns.org
 0.0.0.0 tor-exit.zuluu.net
-0.0.0.0 tor.fmt.53labs.com
 0.0.0.0 tor-gateway.vif.com
 0.0.0.0 tor.holorum.com
 0.0.0.0 tor.htmalgae.com
@@ -719,7 +707,6 @@
 0.0.0.0 tor.node15.shadowbrokers.eu
 0.0.0.0 tor.node17.shadowbrokers.eu
 0.0.0.0 tor.node19.shadowbrokers.eu
-0.0.0.0 tornode1.open-the-ip-in-a-browser.vds-114821.com
 0.0.0.0 tor.node1.righttoprivacy.net
 0.0.0.0 tor.node1.shadowbrokers.eu
 0.0.0.0 tor.node20.shadowbrokers.eu
@@ -755,10 +742,8 @@
 0.0.0.0 tor-project-exit4.dotsrc.org
 0.0.0.0 tor-project-exit5.dotsrc.org
 0.0.0.0 tor-project-exit6.dotsrc.org
-0.0.0.0 tor-project-exit7.dotsrc.org
 0.0.0.0 tor-project-exit8.dotsrc.org
 0.0.0.0 tor-project-exit9.dotsrc.org
-0.0.0.0 tor-proxy-readme.hackeriet.no
 0.0.0.0 tor.reichsfunkma.st
 0.0.0.0 tor.resetthe.world
 0.0.0.0 tor.samic.org
@@ -786,7 +771,6 @@
 0.0.0.0 vmi343398.contaboserver.net
 0.0.0.0 vps121143.cloud-anywhere.eu
 0.0.0.0 vps-1656588678775.plusvps.com
-0.0.0.0 vps1936.hosting90.net
 0.0.0.0 vps3431-94.32.66.15.vps.hosting.tiscali.it
 0.0.0.0 vps-3f94841e.vps.ovh.net
 0.0.0.0 vps3.rkslot.nl
@@ -809,4 +793,3 @@
 0.0.0.0 xvm-107-206.dc0.ghst.net
 0.0.0.0 zarni.haribaned.com
 0.0.0.0 zexit.tor.ac.nz
-0.0.0.0 zlisianthus.com
