@@ -7,6 +7,7 @@
 0.0.0.0 096-042-026-063.res.spectrum.com
 0.0.0.0 101.ip-54-38-183.eu
 0.0.0.0 104-237-158-32.ip.linodeusercontent.com
+0.0.0.0 105.18.35.193.pfcloud.io
 0.0.0.0 107-172-13-143-host.colocrossing.com
 0.0.0.0 107-172-31-146-host.colocrossing.com
 0.0.0.0 107-172-31-165-host.colocrossing.com
@@ -15,9 +16,10 @@
 0.0.0.0 107-174-231-197-host.colocrossing.com
 0.0.0.0 108.61.189.136.vultrusercontent.com
 0.0.0.0 10.tor-exit.nothingtohide.nl
+0.0.0.0 118-163-74-160.hinet-ip.hinet.net
+0.0.0.0 118668.server.net
 0.0.0.0 119.129.205.92.host.secureserver.net
 0.0.0.0 11.tor-exit.nothingtohide.nl
-0.0.0.0 128.104.99.93.finalhosting.cz
 0.0.0.0 12.tor-exit.nothingtohide.nl
 0.0.0.0 133.118.218.193.urdn.com.ua
 0.0.0.0 137.31.205.92.host.secureserver.net
@@ -42,9 +44,7 @@
 0.0.0.0 172-233-209-179.ip.linodeusercontent.com
 0.0.0.0 173-255-255-215.ip.linodeusercontent.com
 0.0.0.0 176-58-117-81.ip.linodeusercontent.com
-0.0.0.0 178-17-174-14.static.as43289.net
 0.0.0.0 178-17-174-164.static.as43289.net
-0.0.0.0 178-175-135-7.static.as43289.net
 0.0.0.0 178-175-142-26.static.as43289.net
 0.0.0.0 178-175-148-209.static.as43289.net
 0.0.0.0 178.218.144.18.lowhosting.org
@@ -163,14 +163,17 @@
 0.0.0.0 aramis-fran72
 0.0.0.0 aramis-tor73
 0.0.0.0 arnov.intervocalically.com
+0.0.0.0 b9c17d5f.host.njalla.net
 0.0.0.0 berlin01.tor-exit.artikel10.org
 0.0.0.0 bhsfm.bond
 0.0.0.0 billsf.tor-exit.calyxinstitute.org
+0.0.0.0 break-guide.prontoutile.com
 0.0.0.0 brutus.relaymagic.org
 0.0.0.0 bucarest01.tor-exit.artikel10.org
 0.0.0.0 bucarest02.tor-exit.artikel10.org
 0.0.0.0 burgerfarm
 0.0.0.0 c-4f66223f-74736162.cust.telenor.se
+0.0.0.0 c-b21f1674-74736162.cust.telenor.se
 0.0.0.0 cc35021-05.cc.colocall.com
 0.0.0.0 cerutty546y.online
 0.0.0.0 chelseamanning.tor-exit.calyxinstitute.org
@@ -191,8 +194,8 @@
 0.0.0.0 disico.cc
 0.0.0.0 djb.tor-exit.calyxinstitute.org
 0.0.0.0 dns.nextdns.io
-0.0.0.0 dsl-189-147-166-241-dyn.prod-infinitum.com.mx
 0.0.0.0 dsl-189-147-187-10-dyn.prod-infinitum.com.mx
+0.0.0.0 dsl-189-147-238-226-dyn.prod-infinitum.com.mx
 0.0.0.0 dsl-189-147-242-169-dyn.prod-infinitum.com.mx
 0.0.0.0 ec5279d.online-server.cloud
 0.0.0.0 educacionit.co.uk
@@ -217,6 +220,7 @@
 0.0.0.0 golosa.info
 0.0.0.0 greasy-stretch.aeza.network
 0.0.0.0 h-62-63-244-7.A980.priv.bahnhof.se
+0.0.0.0 h-98-128-205-61.A980.priv.bahnhof.se
 0.0.0.0 hermes.modafinilsupply.org
 0.0.0.0 host173-237-206-68.lightwavenetworks.com
 0.0.0.0 host-88-80-20-86.cust.prq.se
@@ -231,6 +235,7 @@
 0.0.0.0 Houston.Texas4Tor.com
 0.0.0.0 ip103-129-222-46.cloudhost.web.id
 0.0.0.0 ip103-236-201-88.cloudhost.web.id
+0.0.0.0 ip103-28-52-93.cloudhost.web.id
 0.0.0.0 ip-104-192-1-138.host.datawagon.net
 0.0.0.0 ip-104-219-232-126.host.datawagon.net
 0.0.0.0 ip-104-219-236-100.host.datawagon.net
@@ -296,7 +301,6 @@
 0.0.0.0 mollydova
 0.0.0.0 mordor.theskynet.xyz
 0.0.0.0 moses.torexit.syndicateguys.com
-0.0.0.0 mowe.torexit.syndicateguys.com
 0.0.0.0 muzak.shelli.pw
 0.0.0.0 NewYorkNewTor10.Quetzalcoatl-relays.org
 0.0.0.0 NewYorkNewTor7.Quetzalcoatl-relays.org
@@ -336,8 +340,10 @@
 0.0.0.0 NurembergTor78.quetzalcoatl-relays.org
 0.0.0.0 NurembergTor79.quetzalcoatl-relays.org
 0.0.0.0 onion3.ky0uraku.xyz
+0.0.0.0 onion-exit.stagingdomain.name
 0.0.0.0 OSH-NET-193-33.onshore.net
 0.0.0.0 p5df2444b.dip0.t-ipconnect.de
+0.0.0.0 pengy.lsd.cat
 0.0.0.0 pf10.prsv.ch
 0.0.0.0 pf3.prsv.ch
 0.0.0.0 pf4.prsv.ch
@@ -413,6 +419,7 @@
 0.0.0.0 tor2.teitel.net
 0.0.0.0 tor3e1.digitale-gesellschaft.ch
 0.0.0.0 tor3e3.digitale-gesellschaft.ch
+0.0.0.0 tor4e1.digitale-gesellschaft.ch
 0.0.0.0 tor4e3.digitale-gesellschaft.ch
 0.0.0.0 tor5e1.digitale-gesellschaft.ch
 0.0.0.0 tor5e3.digitale-gesellschaft.ch
@@ -513,6 +520,7 @@
 0.0.0.0 torexit1.flokinet.net
 0.0.0.0 tor-exit1.is.heartbleed.it
 0.0.0.0 tor.exit.1.miami.shimadate.com
+0.0.0.0 torexit1.newtorexitsanitizer.com
 0.0.0.0 tor-exit-1.telnor.org
 0.0.0.0 tor-exit1-terrahost06.tuxli.org
 0.0.0.0 tor-exit1-terrahost07.tuxli.org
@@ -546,6 +554,7 @@
 0.0.0.0 tor-exit-47.for-privacy.net
 0.0.0.0 tor-exit-48.for-privacy.net
 0.0.0.0 tor-exit-49.for-privacy.net
+0.0.0.0 tor-exit4.vegms.de
 0.0.0.0 tor-exit-4.zbau.f3netze.de
 0.0.0.0 tor-exit-5
 0.0.0.0 tor-exit-50.for-privacy.net
@@ -609,7 +618,6 @@
 0.0.0.0 tor-exit.csail.mit.edu
 0.0.0.0 tor-exit.cubicchaos.net
 0.0.0.0 tor-exit.cyberjake.xyz
-0.0.0.0 TOR-EXIT.CYLAB.CMU.EDU
 0.0.0.0 tor-exit.dicedonions.xyz
 0.0.0.0 tor-exit.eecs.umich.edu
 0.0.0.0 tor-exit.for-privacy.net
@@ -655,6 +663,8 @@
 0.0.0.0 tor-exit-relay-7.anonymizing-proxy.digitalcourage.de
 0.0.0.0 tor-exit-relay-8.anonymizing-proxy.digitalcourage.de
 0.0.0.0 tor-exit-relay.anonymizing-proxy.digitalcourage.de
+0.0.0.0 tor-exit-relay-east.tampa.coop
+0.0.0.0 tor-exit-relay.turtlex.net
 0.0.0.0 tor-exit-router-4privacy.quido.org
 0.0.0.0 tor-exit-router-a13.quido.org
 0.0.0.0 tor--exit--router--proxy.quido.org
@@ -707,6 +717,7 @@
 0.0.0.0 tor.node15.shadowbrokers.eu
 0.0.0.0 tor.node17.shadowbrokers.eu
 0.0.0.0 tor.node19.shadowbrokers.eu
+0.0.0.0 tornode1.open-the-ip-in-a-browser.vds-114821.com
 0.0.0.0 tor.node1.righttoprivacy.net
 0.0.0.0 tor.node1.shadowbrokers.eu
 0.0.0.0 tor.node20.shadowbrokers.eu
@@ -742,8 +753,10 @@
 0.0.0.0 tor-project-exit4.dotsrc.org
 0.0.0.0 tor-project-exit5.dotsrc.org
 0.0.0.0 tor-project-exit6.dotsrc.org
+0.0.0.0 tor-project-exit7.dotsrc.org
 0.0.0.0 tor-project-exit8.dotsrc.org
 0.0.0.0 tor-project-exit9.dotsrc.org
+0.0.0.0 tor-proxy-readme.hackeriet.no
 0.0.0.0 tor.reichsfunkma.st
 0.0.0.0 tor.resetthe.world
 0.0.0.0 tor.samic.org
@@ -758,6 +771,7 @@
 0.0.0.0 v2202307203666234413.quicksrv.de
 0.0.0.0 v220231110654243278.powersrv.de
 0.0.0.0 v220231110654243279.goodsrv.de
+0.0.0.0 vm1968740.stark-industries.solutions
 0.0.0.0 vm235495.bitweb.cloud
 0.0.0.0 vmi1262847.contaboserver.net
 0.0.0.0 vmi1306862.contaboserver.net
