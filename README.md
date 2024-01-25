@@ -9,5 +9,5 @@ $ curl https://www.seethishat.com/static/tor-hosts.txt | sort -u | awk '{print "
 
 ## Misc
 
-* (hosts)[hosts] is compressed and should work on Windows, Linux and Mac systems
+* [hosts](hosts) is compressed and should work on Windows, Linux and Mac systems
 * Note, this hosts file intentionally blocks google, YouTube, TikTok and many other popular websites.
