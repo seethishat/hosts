@@ -2,3 +2,6 @@
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 push.services.mozilla.com
 0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 use.fontawesome.com
+0.0.0.0 fonts.googleapis.com
+0.0.0.0 fonts.gstatic.com
