@@ -1,6 +1,10 @@
 0.0.0.0 detectportal.firefox.com
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 push.services.mozilla.com
+0.0.0.0 normandy.cdn.mozilla.net
+0.0.0.0 content-signature-2.cdn.mozilla.net
+0.0.0.0 shavar.services.mozilla.com
+0.0.0.0 classify-client.services.mozilla.com
 0.0.0.0 safebrowsing.googleapis.com
 0.0.0.0 use.fontawesome.com
 0.0.0.0 fonts.googleapis.com
